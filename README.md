@@ -1,6 +1,6 @@
 # AI JSON Summarizer
 
-An AI-powered text summarization tool that generates structured JSON output using Hugging Face Transformers. This project summarizes long text into concise output and returns results in machine-readable JSON format, making it suitable for automation, pipelines, and AI workflows.
+An AI powered text summarization tool that generates structured JSON output using Hugging Face Transformers. This project summarizes long text into concise output and returns results in machine readable JSON format, making it suitable for automation, pipelines, and AI workflows.
 
 ## Features
 
@@ -18,7 +18,7 @@ An AI-powered text summarization tool that generates structured JSON output usin
 ```
 Artificial Intelligence is transforming industries by enabling machines to learn from data. 
 Machine learning models can identify patterns and make predictions with minimal human intervention.
-This leads to automation, improved decision-making, and efficiency across sectors.
+This leads to automation, improved decision making, and efficiency across sectors.
 ```
 
 ### Output
