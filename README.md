@@ -33,7 +33,7 @@ This leads to automation, improved decision-making, and efficiency across sector
 ```
 AI-json-summarizer/
 │
-├── summarizer.py
+├── AI_summarizer.py
 ├── requirements.txt
 └── README.md
 ```
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 Run the script:
 
 ```
-python summarizer.py
+python AI_summarizer.py
 ```
 
 Or use inside Python:
