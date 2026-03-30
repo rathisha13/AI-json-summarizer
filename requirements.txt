@@ -1,2 +1,4 @@
-transformers
-torch
+- Python 3.8+
+- transformers
+- torch
+- numpy
