@@ -31,7 +31,7 @@ This leads to automation, improved decision making, and efficiency across sector
 ## Project Structure
 
 ```
-AI json summarizer
+AI-json-summarizer
 
 -AI_summarizer.py
 -requirements.txt
