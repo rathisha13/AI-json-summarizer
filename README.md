@@ -31,11 +31,11 @@ This leads to automation, improved decision making, and efficiency across sector
 ## Project Structure
 
 ```
-AI-json-summarizer/
-│
-├── AI_summarizer.py
-├── requirements.txt
-└── README.md
+AI json summarizer
+
+-AI_summarizer.py
+-requirements.txt
+-README.md
 ```
 
 ## Installation
